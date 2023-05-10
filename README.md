@@ -1,2 +1,3 @@
 # Firefox-py
-fork if you want to
+Fork if you want to
+maybe works it is firefox
